@@ -26,6 +26,12 @@ The goal of the project is to make complex jet structures easier to inspect, com
 - 3D plotting tools from Matplotlib
 - Scientific data visualization workflows
 
+## 📦 Download Solutions File
+
+Download the solutions file directly from Google Drive:
+
+[![Download Solutions](https://img.shields.io/badge/Download-Solutions-blueviolet)](https://drive.google.com/uc?id=1z3rmJrbcBL0-N2CGEnW9vVNAAqfooXpH&export=download)
+
 ## Repository Structure
 
 ```text
@@ -33,8 +39,5 @@ jet-visualization/
 ├── jet_visualization.ipynb   # Main notebook for generating 3D jet visualizations
 └── README.md                 # Project documentation
 
-## 📦 Download Solutions File
 
-Download the solutions file directly from Google Drive:
 
-[![Download Solutions](https://img.shields.io/badge/Download-Solutions-blueviolet)](https://drive.google.com/uc?id=1z3rmJrbcBL0-N2CGEnW9vVNAAqfooXpH&export=download)
